@@ -1,0 +1,17 @@
+package com.project.selenium;
+
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.Test;
+
+public class SeleniumDemoTest {
+
+	@Test
+	public void testMacys(){
+		WebDriver driver=new FirefoxDriver();
+		//driver.get("http://www.macys.com/");
+		
+		
+		
+	}
+}

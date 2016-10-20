@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="92878" started-at="2016-10-11T13:24:51Z" finished-at="2016-10-11T13:26:24Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="92878" started-at="2016-10-11T13:24:51Z" finished-at="2016-10-11T13:26:24Z">
+      <class name="com.project.selenium.SeleniumDemoTest">
+        <test-method status="PASS" signature="testMacys()[pri:0, instance:com.project.selenium.SeleniumDemoTest@d2cc05a]" name="testMacys" duration-ms="92859" started-at="2016-10-11T18:54:51Z" finished-at="2016-10-11T18:56:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testMacys -->
+      </class> <!-- com.project.selenium.SeleniumDemoTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
